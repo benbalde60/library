@@ -24,18 +24,6 @@ CSS3
 Vanilla JavaScript
 Bootstrap
 Bootstrap Icons
-Project Structure
-library/
-│
-├── index.html
-├── styles.css
-├── library.js
-├── images/
-│   ├── Bookcover.jpg
-│   ├── bookcover1.jpg
-│   └── ...
-│
-└── README.md
 Learning Goals
 
 This project was built to practice:
@@ -92,21 +80,5 @@ Open the project folder:
 cd library
 
 Run index.html in your browser.
-
-Screenshots
-
-Add screenshots of:
-
-homepage
-navbar
-book cards
-add-book functionality
-Inspiration
-
-Design inspiration from:
-
-Goodreads
-Letterboxd
-Author
 
 Built by Ben Balde as part of a frontend development learning journey.
